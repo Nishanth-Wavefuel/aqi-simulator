@@ -1,0 +1,6 @@
+/dist
+.env
+*.csv
+*.zip
+/node_modules
+/.vscode/settings.json
