@@ -1,4 +1,4 @@
-import { SensorRanges, FuelServerPayload } from "./types.js";
+import { SensorRanges, FuelServerPayload } from "./types";
 import dotenv from "dotenv";
 
 dotenv.config();

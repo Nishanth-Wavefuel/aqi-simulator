@@ -1,7 +1,7 @@
 import WebSocket from "ws";
-import { handleConnection } from "./websocket.js";
+import { handleConnection } from "./websocket";
 import dotenv from "dotenv";
-import { serverLogger } from "./logger.js";
+import { serverLogger } from "./logger";
 
 dotenv.config();
 

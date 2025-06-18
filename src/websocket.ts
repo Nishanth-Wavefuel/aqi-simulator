@@ -1,7 +1,7 @@
 import WebSocket from "ws";
-import { generateSensorData } from "./sensorData.js";
+import { generateSensorData } from "./sensorData";
 import dotenv from "dotenv";
-import { serverLogger } from "./logger.js";
+import { serverLogger } from "./logger";
 
 dotenv.config();
 
